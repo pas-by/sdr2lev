@@ -1,2 +1,2 @@
 # sdr2lev
-concert a Topcon SDR2x level file to that of *.lev
+convert a Topcon SDR2x level file to that of *.lev
